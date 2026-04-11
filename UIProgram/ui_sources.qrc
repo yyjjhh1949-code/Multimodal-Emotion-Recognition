@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ui_imgs/shu1.png</file>
+    <file>ui_imgs/shu1.png</file>
+    <file>ui_imgs/shu2.png</file>
+    <file>ui_imgs/shu.png</file>
+    <file>ui_imgs/icons/开心表情.png</file>
+    <file>ui_imgs/icons/退出.png</file>
+    <file>ui_imgs/icons/camera.png</file>
+    <file>ui_imgs/icons/folder.png</file>
+    <file>ui_imgs/icons/img.png</file>
+    <file>ui_imgs/icons/video.png</file>
+  </qresource>
+  <qresource prefix="bgs">
+    <file>ui_imgs/icons/表情.png</file>
+    <file>ui_imgs/11.png</file>
+  </qresource>
+</RCC>
